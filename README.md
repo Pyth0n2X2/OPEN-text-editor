@@ -1,4 +1,4 @@
-# OPEN Text editor v0.0.1
+# OPEN Text editor v0.0.2
 An open-source text editor running off python. 
 PROS:
 -Low storage (Only 14 MB)
